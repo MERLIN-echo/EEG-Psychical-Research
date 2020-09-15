@@ -5,6 +5,8 @@ https://www.linkedin.com/in/alanarqueza , https://about.me/alanarqueza .
 
 Knowing The Future - iOS App. Build a software interface using numbers, inconography and graphs to measure electroencephalogram output from participant of psychical test phenomenon in guessing numbers on a computer screen while hearing specific types of music or static sounds. Application will record heart rate, alpha to theta waves. Include MADAR III magnetic anomoly readings from node Los Altos, California for potential unidentified aerial phenomenon (UAP) arrival or presence. Plot performance of guesses correct and incorrect with time of day and hourly dietary daily menu of the event. Record weather, time of day in sidereal time and UTC time.  Image database can be customized by the participant.
 
+MERLIN Time Travel - iOS Apple Watch App. Detects psychical events at a press of a button by recording the magnetic field, heart rate, EEG data and exact GPS coordinates of event.
+
 MERLIN Echo - iOS App. Monitor participants visualizing a future event from imagination of a mile-wide triangualr aerial object above the ocean off the coast of Ocean Beach of San Francisco, California. Participants invite the mile-wide triangular aerial objects of 1997 March 13 reported by over 10,000 citizens of Arizona following comet Hale-Bopp event. 
 
 Project Merlin Test list of monitoring gravitation distortion of time phenomenon, potential telekinesis experiments, recognizing dream telepathy patterns and invisible audio events. Recording and photographing probabilities in disappearing object phenomenon. This page will be updated monthly.
