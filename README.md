@@ -3,6 +3,8 @@ Psychical Research EMOTIV X Brainwear Electroencephalogram
 
 Knowing The Future - iOS App. Build a software interface using numbers, inconography and graphs to measure electroencephalogram output from participant of psychical test phenomenon in guessing numbers on a computer screen while hearing specific types of music or static sounds. 
 
+MERLIN Echo - iOS App. Monitor participants visualizing a future event from imagination of a mile-wide triangualr aerial object above the ocean off the coast of Ocean Beach of San Francisco, California. Participants invite the mile-wide triangular aerial objects of 1997 March 13 reported by over 10,000 citizens of Arizona following comet Hale-Bopp event. 
+
 Project Merlin Test list of monitoring gravitation distortion of time phenomenon, potential telekinesis experiments, recognizing dream telepathy patterns and invisible audio events. Recording and photographing probabilities in disappearing object phenomenon. This page will be updated monthly.
 
 Project List for monitoring potential in pyschical phenomenon.
