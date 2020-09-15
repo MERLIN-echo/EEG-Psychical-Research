@@ -19,7 +19,7 @@ Project List for monitoring potential in pyschical phenomenon.
 - Automatic writing
 - Disappearing Object Phenomenon 
 - Ghost App phenomenon
-- NREM1 dream messages of words
+- NREM1 dream messages of words and verifiable telephone numbers received in dreams
 
 TELEMETRY
 
