@@ -12,10 +12,10 @@ MERLIN Echo - iOS App. Monitor participants visualizing a future event from imag
 
 Project Merlin Test list of monitoring gravitation distortion of time phenomenon, potential telekinesis experiments, recognizing dream telepathy patterns and invisible audio events. Recording and photographing probabilities in disappearing object phenomenon. This page will be updated monthly.
 
-Project List for monitoring potential in pyschical phenomenon.
+Project List for monitoring potential in psychical phenomenon.
 - Unidentified Aerial Phenomenon
 - Magnetic field anomoly
-- Telekenis
+- Telekinesis
 - Automatic writing
 - Disappearing Object Phenomenon 
 - Ghost App phenomenon
