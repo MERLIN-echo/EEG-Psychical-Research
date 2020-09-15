@@ -10,7 +10,7 @@ MERLIN Dream Telepathy - iOS App. Talk to reciever in the dream and verify subje
 
 MERLIN Time Travel - iOS Apple Watch App. Detects psychical events at a press of a button by recording the magnetic field, heart rate, EEG data and exact GPS coordinates of event. Time Travel will compare real-time with recorded time for comparison of possible time-slip phenomenon that have been reported from Bold Street in Liverpool, England in year 2000s. Built-in Bluetooth voice recorder to report paranormal phenomenon at a palm-cover of the Apple Watch screen.
 
-MERLIN Echo - iOS App. Monitor participants visualizing a future event from imagination of a mile-wide triangular aerial object above the ocean off the coast of Ocean Beach of San Francisco, California. Participants invite the mile-wide triangular aerial objects of 1997 March 13 reported by over 10,000 citizens of Arizona following comet Hale-Bopp event. 
+** MERLIN Echo - iOS App. Monitor participants visualizing a future event from imagination of a mile-wide triangular aerial object above the ocean off the coast of Ocean Beach of San Francisco, California. Participants invite the mile-wide triangular aerial objects of 1997 March 13 reported by over 10,000 citizens of Arizona following comet Hale-Bopp event. 
 
 Project Merlin Test list of monitoring gravitation distortion of time phenomenon, potential telekinesis experiments, recognizing dream telepathy patterns and invisible audio events. Recording and photographing probabilities in disappearing object phenomenon. This page will be updated monthly.
 
@@ -59,7 +59,7 @@ V83020 UTC210 eV0 - Boom
 
 Project inspired from the research from the following cited works.
 
-Works Cited
+** Works Cited
 
 Vallee, Jacques, PhD. Jacques Vallee: Implications of UFO Phenomena (excerpt) - Thinking Allowed w/ Jeffrey Mishlove. Retrieved from http://www.thinkingallowed.com/2jvallee.html. Full interview on DVD.
 
