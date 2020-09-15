@@ -1,7 +1,7 @@
 # EEG-Psychical-Research
 MERLIN Echo for Psychical Research using EMOTIV X Brainwear Electroencephalogram.
 
-Software design doncept by Alan Arqueza of https://merlin.live , 
+Software design concept by Alan Arqueza of https://merlin.live , 
 https://www.linkedin.com/in/alanarqueza , https://about.me/alanarqueza .
 
 Knowing The Future - iOS App. Build a software interface using numbers, iconography and graphs to measure electroencephalogram output from participant of psychical test phenomenon in guessing numbers on a computer screen while hearing specific types of music or static sounds. Application will record heart rate, alpha to theta waves. Include MADAR III magnetic anomaly readings from node Los Altos, California for potential unidentified aerial phenomenon (UAP) arrival or presence. Plot performance of guesses correct and incorrect with time of day and hourly dietary daily menu of the event. Record weather, time of day in sidereal time and UTC time.  Image-guessing database of locations, objects and numbers, including glyphs from Palo Alto CARET Laboratory via DroneTeam.com can be customized by the participant. Objective knowing the future to improve on user accuracy.
