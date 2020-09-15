@@ -1,5 +1,6 @@
 # EEG-Psychical-Research
 MERLIN Echo for Psychical Research using EMOTIV X Brainwear Electroencephalogram.
+
 Software Design Concept by Alan Arqueza of https://merlin.live , 
 https://www.linkedin.com/in/alanarqueza , https://about.me/alanarqueza .
 
