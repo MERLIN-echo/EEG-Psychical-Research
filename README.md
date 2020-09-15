@@ -16,9 +16,10 @@ Project List for monitoring potential in pyschical phenomenon.
 - Unidentified Aerial Phenomenon
 - Magnetic field anomoly
 - Telekenis
-
-
-
+- Automatic writing
+- Disappearing Object Phenomenon 
+- Ghost App phenomenon
+- NREM1 dream messages of words
 
 TELEMETRY
 
