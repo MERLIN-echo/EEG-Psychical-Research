@@ -1,7 +1,7 @@
 # EEG-Psychical-Research
 Psychical Research EMOTIV X Brainwear Electroencephalogram
-Project Concept by Alan Arqueza of https://merlin.live
-https://www.linkedin.com/in/alanarqueza 
+Project Concept by Alan Arqueza of https://merlin.live , 
+https://www.linkedin.com/in/alanarqueza , https://about.me/alanarqueza .
 
 Knowing The Future - iOS App. Build a software interface using numbers, inconography and graphs to measure electroencephalogram output from participant of psychical test phenomenon in guessing numbers on a computer screen while hearing specific types of music or static sounds. 
 
