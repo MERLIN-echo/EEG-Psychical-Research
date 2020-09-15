@@ -56,4 +56,12 @@ NREM1 Record
 V83020 UTC210 eV0 - Boom
 
 
+Project inspired from the research from the following cited works.
+
+Works Cited
+
+Vallee, Jacques, PhD. Jacques Vallee: Implications of UFO Phenomena (excerpt) - Thinking Allowed w/ Jeffrey Mishlove. Retrieved from http://www.thinkingallowed.com/2jvallee.html. Full interview on DVD.
+
+Rubik, Beverly, PhD Biophysicist. Psychotronics with Beverly Rubik. Retrieved from https://www.newthinkingallowed.org/psychotronics-with-beverly-rubik/.
+
 
